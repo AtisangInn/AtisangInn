@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a **third-year Computer Science student at Belgium Campus iTversity**, a software developer, and an AI tools enthusiast passionate about **solving real-world problems through innovative and user-centric digital solutions**. With a strong technical foundation and hands-on experience building full-stack systems, I thrive on transforming ideas into impactful applications.
+I'm a **4th-year Computer Science student at Belgium Campus iTversity**, a software developer, and an AI tools enthusiast passionate about **solving real-world problems through innovative and user-centric digital solutions**. With a strong technical foundation and hands-on experience building full-stack systems, I thrive on transforming ideas into impactful applications.
 
 ---
 
